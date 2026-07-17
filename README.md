@@ -1,3 +1,5 @@
+I made this fork both to update the Python and to apply the correct gamma. More on that later.
+
 20221218: Please see https://www.opendesktop.org/p/1231025 for a newer version
 --------------------------------------------------------------------------------------------------
 
